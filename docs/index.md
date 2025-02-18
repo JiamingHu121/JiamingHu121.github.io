@@ -8,10 +8,7 @@ hero:
   name: '材料模拟与设计实验室'
   text: 'Materials Modeling and Design Lab'
   tagline: ' MMD Lab'
-  image:
-    src: /image/group.jpg
-    alt: PI
-  actions:
+    actions:
     - theme: brand
       text: Research
       link: /research
