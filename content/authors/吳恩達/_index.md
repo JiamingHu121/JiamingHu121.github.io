@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wenbin Li
+title: Wenbin Li 李文彬
 
 # Full name (for SEO)
 first_name: Wenbin
