@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiaming Hu
+title: Jiaming Hu 胡家鸣
 
 # Full Name (for SEO)
 first_name: Jiaming
