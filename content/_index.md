@@ -1,21 +1,20 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-6-12
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Materials Modeling and Design Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The research of our group focuses on the fundamental understanding and design of advanced functional materials using computational and data-driven approaches. By employing quantum mechanical calculations, atomistic simulations, and machine learning, we aim to provide fundamental insights into structure-property relationships in complex functional materials, as well as accelerate the discovery of new materials through computational and machine learning-assisted design.
   
   - block: collection
     content:
