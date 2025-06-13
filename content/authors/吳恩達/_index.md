@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Wenbin Li 李文彬
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Wenbin
+last_name: Li
 
 # Username (this should match the folder name)
 authors:
@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Materials Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Westlake University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -71,9 +71,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Wenbin Li received his bachelor’s degree from Zhejiang University (2008), master’s degree from the University of Pennsylvania (2011), and Ph.D. degree from the Massachusetts Institute of Technology (MIT, 2015), all in Materials Science and Engineering. From 2015 to 2017, he was a postdoctoral associate at the Research Laboratory of Electronics of MIT. He then spent two years at the University of Oxford as a Marie Curie Fellow. In 2019, he joined the School of Engineering at Westlake University as an Assistant Professor and is now the Principal Investigator of the Materials Modeling and Design Lab. He has received a number of awards, including the R&D 100 Award (team member, 2016), the Marie Skłodowska-Curie Individual Fellowship (2017), the Junior Research Fellowship of Wolfson College at the University of Oxford (2017), and the Excellence in Teaching Award from the School of Engineering at Westlake University (2022).
