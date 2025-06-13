@@ -8,7 +8,7 @@ last_name: Li
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - lwb
 
 # Is this the primary user of the site?
 superuser: false
