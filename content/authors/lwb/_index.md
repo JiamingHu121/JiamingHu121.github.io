@@ -70,7 +70,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Wenbin Li received his bachelor’s degree from Zhejiang University (2008), master’s degree from the University of Pennsylvania (2011), and Ph.D. degree from the Massachusetts Institute of Technology (MIT, 2015), all in Materials Science and Engineering. From 2015 to 2017, he was a postdoctoral associate at the Research Laboratory of Electronics of MIT. He then spent two years at the University of Oxford as a Marie Curie Fellow. In 2019, he joined the School of Engineering at Westlake University as an Assistant Professor and is now the Principal Investigator of the Materials Modeling and Design Lab. He has received a number of awards, including the R&D 100 Award (team member, 2016), the Marie Skłodowska-Curie Individual Fellowship (2017), the Junior Research Fellowship of Wolfson College at the University of Oxford (2017), and the Excellence in Teaching Award from the School of Engineering at Westlake University (2022).
