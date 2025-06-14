@@ -18,6 +18,7 @@ sections:
           - Visitors
           - Alumni
           - PhD students
+          - Post-doctoral Researchers
       sort_by: Params.last_name
       sort_ascending: true
     design:
