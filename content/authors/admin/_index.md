@@ -18,24 +18,18 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in the interdisciplinary research between electron-phonon coupling and nonlinear optical responses, on both theoretical and computational aspects.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Nonlinear optics
+  - Electron-phonon coupling
+  - First-principles calculations
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Physics
+      institution: Fudan University, China
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +38,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:hujiaming@westlake.edu.cn'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://x.com/JiamingHu12138
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Hu-Jiaming-2
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/JiamingHu121
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,4 +66,4 @@ user_groups:
   - PhD students
 ---
 
-Jiaming Hu is a PhD student.
+I spend most of my childhood in Lanzhou, Gansu province. I have broad interests in exploring fundamental mechanisms behind diverse materials's responses. In spare time, I am greatly interested in doing stuff by myself, including electronic circuits and airplane models. 

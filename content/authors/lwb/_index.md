@@ -22,23 +22,23 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include electron-phonon interactions, modeling and design of advanced semiconductors and associated machine learning methods.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Electron-phonon interactions
+  - Machine learning for science
+  - Materials modeling and design
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: Ph.D., Materials Science and Engineering 
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      year: 2015
+    - course: M.S., Materials Science and Engineering
+      institution: University of Pennsylvania
+      year: 2011
+    - course: B.E., Materials Science and Engineering
+      institution: Zhejiang University
       year: 2008
 
 # Social/Academic Networking
@@ -48,16 +48,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:liwenbin@westlake.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=rZ7mgIUAAAAJ&hl=en
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
