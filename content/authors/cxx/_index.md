@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Yubo Yuan 袁誉博
+title: Xiaoxiao Chen 陈潇潇
 
 # Full Name (for SEO)
-first_name: Yubo
-last_name: Yuan
+first_name: Xiaoxiao
+last_name: Chen
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: PhD student
